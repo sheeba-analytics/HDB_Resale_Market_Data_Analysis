@@ -75,7 +75,7 @@ Key steps included:
     
          ├── region.csv        # Local file mapping towns to regions
 
-│        └── README.md         # Description of datasets and file usage
+         │── README.md         # Description of datasets and file usage
 
 │
 ├── PowerBI/              # Power BI reports
