@@ -71,7 +71,9 @@ Key steps included:
 ├── data/                 # Contains datasets used for analysis
 │   
     ├── hdbsaleprices.txt # Google Drive link to 23-year HDB resale dataset
+    
 │   ├── region.csv        # Local file mapping towns to regions
+
 │   └── README.md         # Description of datasets and file usage
 
 │
