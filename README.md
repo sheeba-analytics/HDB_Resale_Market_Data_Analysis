@@ -58,9 +58,31 @@ Key steps included:
 - Older flats tend to have slightly lower resale prices compared to newer flats.
 - Market movements align closely with macroeconomic and policy shifts.
 
-  ## Recommendations
+## Recommendations
 
 - Buyers seeking affordable options may consider non-mature towns, older flats, or lower floors, where price per square meter is lower.
 - Investors may focus on towns with strong historical price growth.
 - Policymakers can use these insights to monitor housing affordability trends across regions.
-- Analysts should consider flat age, size, floor, and macroeconomic factors (e.g., recession periods) when analyzing or forecasting prices.										
+- Analysts should consider flat age, size, floor, and macroeconomic factors (e.g., recession periods) when analyzing or forecasting prices.
+
+ 
+## Project Structure
+│
+├── data/                 # Contains datasets used for analysis
+│   ├── hdbsaleprices.txt # Google Drive link to 23-year HDB resale dataset
+│   ├── region.csv        # Local file mapping towns to regions
+│   └── README.md         # Description of datasets and file usage
+│
+├── PowerBI/              # Power BI reports
+│   └── README.md         # Overview of dashboards and features (interactive visuals, drill-through, filters, Customized tooltips)
+│
+├── screenshots/          # Screenshots of dashboards and key analysis visuals
+│   └── README.md         # Explains what each screenshot represents
+│
+├── SQL/                  # SQL scripts used analysis
+│   └── README.md         # Description of SQL scripts and queries
+│
+├── presentation/         # Project presentation slides
+│   └── README.md         # Overview of slides and key points covered
+│
+└── README.md             # Main project README providing overall project overview, objectives, and insights     				
