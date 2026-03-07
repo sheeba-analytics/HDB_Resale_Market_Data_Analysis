@@ -38,7 +38,7 @@ Key steps included:
 ![Dashboard Overview](screenshots/hdb sales overview.png)
 
 ### Resale Price Trend
-![Price Trend](screenshots/price_trend.png)
+![Price Trend](screenshots/Trends overtime.png)
 
 ### Town Comparison
 ![Town Comparison](screenshots/town_comparison.png)
