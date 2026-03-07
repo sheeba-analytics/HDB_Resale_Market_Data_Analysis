@@ -34,17 +34,20 @@ Key steps included:
 
 ## Dashboard Preview
 
-### Overview Dashboard
-![Dashboard Overview](screenshots/hdb sales overview.png)
+### HDB Sales Overview
+![HDB Sales Overview](screenshots/hdb_sales_overview.png)
 
 ### Resale Price Trend
-![Price Trend](screenshots/Trends overtime.png)
+![Price Trend](screenshots/Trends_overtime.png)
 
-### Town Comparison
-![Town Comparison](screenshots/town_comparison.png)
+### Town Region Analysis
+![Town Region Analysis](screenshots/Town_region_analysis.png)
 
-### Flat Type Analysis
-![Flat Type Analysis](screenshots/flat_type_analysis.png)
+### Town Clusters
+![Town Clusters](screenshots/Town_clusters.png)
+
+### Flat Price Analysis
+![Flat Price Analysis](screenshots/Flat_Price_Analysis.png)
 
 ## Key Insights
 
