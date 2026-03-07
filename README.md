@@ -41,6 +41,7 @@ Key steps included:
 ![Price Trend](screenshots/Trends overtime.png)
 
 ### Town Comparison
+[![Town Comparison](screenshots/town_comparison.png)](screenshots/town_comparison.png)
 ![Town Comparison](screenshots/town_comparison.png)
 
 ### Flat Type Analysis
