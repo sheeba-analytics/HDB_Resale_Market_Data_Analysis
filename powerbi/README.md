@@ -10,7 +10,10 @@ The dashboard visualizes key insights derived from the HDB resale transaction da
 - Average resale price by town and region
 - Impact of flat age and flat type on resale pricing
 - Top 10 town by price and transaction
-- classify town
+- classify town based on price level and transactions
+- Town Comparison Across Key Metrics
+- Flat Price analysis
+- Price drivers
 
 ## Dashboard Features
 
