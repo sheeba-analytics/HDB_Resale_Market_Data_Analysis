@@ -35,7 +35,7 @@ Key steps included:
 ## Dashboard Preview
 
 ### Overview Dashboard
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](screenshots/hdb sales overview.png)
 
 ### Resale Price Trend
 ![Price Trend](screenshots/price_trend.png)
