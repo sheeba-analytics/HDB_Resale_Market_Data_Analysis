@@ -78,7 +78,7 @@ Key steps included:
          │── README.md         # Description of datasets and file usage
 
 
-├── PowerBI                     # Power BI reports
+── PowerBI                     # Power BI reports
 
          │── README.md         # Overview of dashboards and features (interactive visuals, drill-through, 
                                       filters, Customized tooltips)
