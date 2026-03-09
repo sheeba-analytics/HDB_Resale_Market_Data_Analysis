@@ -21,4 +21,5 @@ The dashboard visualizes key insights derived from the HDB resale transaction da
 - KPI indicators for market trends
 - Customized tooltips to provide additional contextual insights when hovering over visuals
 
+
 The dashboard helps identify pricing patterns, high-demand towns, and market changes in Singapore’s HDB resale market.
