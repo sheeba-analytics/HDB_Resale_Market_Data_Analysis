@@ -68,35 +68,14 @@ Key steps included:
  
 ## Project Structure
 
-── data                         # Contains datasets used for analysis
-   
-   
-         ├── hdbsaleprices.txt # Google Drive link to 23-year HDB resale dataset
-    
-         ├── region.csv        # Local file mapping towns to regions
+├── data – dataset used for analysis
 
-         │── README.md         # Description of datasets and file usage
+├── sql – SQL queries for validation and analysis
 
+├── powerbi – Power BI reports
 
-── PowerBI                     # Power BI reports
+├── screenshots – dashboard preview images
 
-         │── README.md         # Overview of dashboards and features (interactive visuals, drill-through, 
-                                      filters, Customized tooltips)
+├── presentation – project presentation slides
 
-
-── screenshots                 # Screenshots of dashboards and key analysis visuals
-
-
-         │── README.md         # Explains what each screenshot represents
-
-── SQL                         # SQL scripts used analysis
- 
-        │── README.md         # Description of SQL scripts and queries
-
-
-── presentation               # Project presentation slides
-        
-        │── README.md         # Overview of slides and key points covered
-
-
-── README.md                  # Main project README providing overall project overview, objectives, and insights     				
+└── README.md – project documentation
