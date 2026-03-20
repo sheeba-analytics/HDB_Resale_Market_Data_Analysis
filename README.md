@@ -68,6 +68,8 @@ Key steps included:
  
 ## Project Structure
 
+Singapore HDB Resale Price Analysis
+
 ├── data – dataset used for analysis
 
 ├── sql – SQL queries for validation and analysis
